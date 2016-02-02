@@ -1,0 +1,79 @@
+/* For Typography */
+
+p {
+    margin: 0 0 15px 0;
+}
+
+h6 {
+    font-size: 110%;
+}
+h5 {
+    font-size: 120%;
+}
+h4 {
+    font-size: 130%;
+}
+h3 {
+    font-size: 140%;
+}
+h2 {
+    font-size: 160%;
+}
+h1 {
+    font-size: 180%;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0 0 10px 0;
+}
+
+ol, ul {
+    padding-left: 25px;
+    list-style-position: inside;
+
+    &.type-none {
+        list-style: none;
+    }
+}
+ol {
+    list-style-type: decimal;
+}
+ul {
+    list-style-type: disc;
+}
+
+.ul-base {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.font-small {
+    font-size: 90%;
+}
+.font-smaller {
+    font-size: 80%;
+}
+.font-smallest {
+    font-size: 70%;
+}
+
+.font-large {
+    font-size: 110%;
+}
+.font-larger {
+    font-size: 120%;
+}
+.font-largest {
+    font-size: 130%;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+.text-light {
+    font-weight: 300;
+}
+.text-bold {
+    font-weight: bold;
+}

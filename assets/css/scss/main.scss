@@ -1,0 +1,23 @@
+@import url("../fonts/lato/style.css");
+@import url("../fonts/SourceCodePro/style.css");
+
+// Partials Files
+@import 'partials/variables';
+@import 'partials/settings';
+@import 'partials/mixins';
+
+
+// Core Setup Files
+@import 'core/global';
+@import 'core/typography';
+//@import 'core/grid';
+
+// Layout Files
+//@import 'layout/header';
+@import 'layout/footer';
+//@import 'layout/aside';
+//@import 'layout/main';
+//@import 'layout/nav';
+
+// Pages Files
+@import 'pages/index';
