@@ -1,5 +1,18 @@
-# Rainbow theme
-Rainbow is a clean, responsive theme for my personal GitHub page.
+# Rainbow Theme
 
-# Screenshot
-![] (https://raw.githubusercontent.com/rkchauhan/rkchauhan.github.io/dcbb8d0d82da820506cebfc48dd2b2e28a78ab9e/assets/imgs/screenshot.png)
+Rainbow is a clean, and lightweight responsive theme for my personal GitHub page.
+Build with Sass
+
+### Screenshot
+
+<img src="https://raw.githubusercontent.com/rkchauhan/rkchauhan.github.io/master/assets/imgs/screenshot.gif" alt="Screenshot" />
+
+***
+
+### Credits
+- jQuery - http://jquery.com
+- normalize css - https://necolas.github.io/normalize.css/
+- Lato Font - https://www.google.com/fonts/specimen/Lato
+- Source Sans Pro Font - https://www.google.com/fonts/specimen/Source+Sans+Pro
+- Font Awesome - http://fontawesome.io
+- Koala app - http://koala-app.com
